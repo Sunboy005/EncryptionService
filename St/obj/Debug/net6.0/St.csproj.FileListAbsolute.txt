@@ -1,0 +1,17 @@
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\bin\Debug\net6.0\St.exe
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\bin\Debug\net6.0\St.deps.json
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\bin\Debug\net6.0\St.runtimeconfig.json
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\bin\Debug\net6.0\St.dll
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\bin\Debug\net6.0\St.pdb
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.csproj.AssemblyReference.cache
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.AssemblyInfoInputs.cache
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.AssemblyInfo.cs
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.csproj.CoreCompileInputs.cache
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.dll
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\refint\St.dll
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.pdb
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.genruntimeconfig.cache
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\ref\St.dll
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Amos.alagbe\Desktop\Wibmo\St\St\obj\Debug\net6.0\St.csproj.CopyComplete
